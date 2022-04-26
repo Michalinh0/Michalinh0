@@ -1,8 +1,8 @@
 ### Hey there! 👋
 
-### About me: 
+### About me
 
-- Michał, 20 , 🇵🇱
+- Michał, 20
 - Applied Computer Science student at Jagiellonian University
 
 ### My skills
@@ -17,4 +17,4 @@
 
 ## Contact
 
-- Michalinh0#4503 at discord
+- Discord : Michalinh0#4503
