@@ -1,9 +1,20 @@
-Hey there! 👋
+### Hey there! 👋
 
-About me:
+### About me: 
 
-I'm Michał, 20 , I'm currently Applied Computer Science Student 🖥️
+- Michał, 20 , 🇵🇱
+- Applied Computer Science student at Jagiellonian University
 
----
+### My skills
 
-### :fire: My Stats : https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+- Python
+- Java
+- C/C++
+
+## Currently learning
+
+- Ruby ( and Ruby on Rails )
+
+## Contact
+
+- Michalinh0#4503 at discord
