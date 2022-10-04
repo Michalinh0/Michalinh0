@@ -2,7 +2,7 @@
 
 ### About me
 
-- Michał, 20
+- Michał, 21
 - Applied Computer Science student at Jagiellonian University
 
 ### My skills
@@ -13,7 +13,7 @@
 
 ## Currently learning
 
-- Ruby ( and Ruby on Rails )
+- Advanced Java
 
 ## Contact
 
