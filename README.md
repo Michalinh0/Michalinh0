@@ -10,11 +10,12 @@
 - Python
 - Java
 - C/C++
+- Basics of data analysis
 
 ## Currently learning
 
-- Advanced Java
+- Advanced Python
 
 ## Contact
 
-- Discord : Michalinh0#4503
+- Discord : Michalinh0#5687
