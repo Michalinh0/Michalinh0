@@ -2,7 +2,7 @@
 
 ### About me
 
-- Michał, 21
+- Michał, 23
 - Applied Computer Science student at Jagiellonian University
 
 ### My skills
@@ -10,7 +10,7 @@
 - Python
 - Java
 - C/C++
-- Basics of data analysis
+- Data analysis
 
 ## Currently learning
 
@@ -18,4 +18,4 @@
 
 ## Contact
 
-- Discord : Michalinh0#5687
+- Discord : michalinh0
